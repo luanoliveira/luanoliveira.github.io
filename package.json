@@ -1,0 +1,16 @@
+{
+  "name": "luanoliveira.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:luanoliveira/luanoliveira.github.io.git",
+  "author": "Luan Oliveira <luanconecte@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@symfony/webpack-encore": "^0.22.2",
+    "bulma": "^0.7.2"
+  },
+  "devDependencies": {
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.0.1"
+  }
+}
